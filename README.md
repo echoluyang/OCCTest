@@ -13,3 +13,9 @@ To handle later requirement changes:  
 3. fileReader is implemented to be able to handle the condition when the name is the full name. Name "Amy Smith" is considered "AmySmith" when calculating the score. 
 
 Junit5 is used for unit testing. 
+
+
+This is Maven project. To run
+
+1. download the project, import into eclipse. 
+2. Run the MainScoreCalculator.java with argument either be the directory of a valid .txt file or a URL.
